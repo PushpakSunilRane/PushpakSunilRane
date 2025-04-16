@@ -17,9 +17,9 @@ With a mindset of continuous learning, I enjoy using data to drive decisions and
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, R, SQL, PHP, Java, C/C++, HTML/CSS/JS  
-- **Tools**: Excel, Jupyter, RStudio, VS Code, Git, MySQL, ArcGIS  
+- **Tools**: Excel, Jupyter, RStudio, VS Code, Git, MySQL  
 - **Libraries**: NumPy, pandas, scikit-learn, Matplotlib, seaborn, ggplot2  
-- **Concepts**: Data Cleaning, Visualization, Statistical Modeling, ML, EDA, Web Dev  
+- **Concepts**: Data Cleaning, Visualization, Statistical Modeling, Machine Learning, EDA, Web Development 
 - **Leadership & Soft Skills**: Team Management, Public Speaking, Peer Mentorship, Event Planning
 
 ---
