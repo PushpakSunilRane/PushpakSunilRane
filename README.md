@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pushpak Sunil Rane
 
-🎓 Graduate Student | Data Enthusiast | Student Leader  
+🎓 Graduate Student | Data Enthusiast | President of Indian Student Association at Chico State  
 📍 Based in Chico, California | MS in Data Science & Analytics, CSU Chico  
 🔍 Actively seeking internship/part-time opportunities in **Data Science**, **Analytics** or **Machine Learning**
 
