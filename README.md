@@ -26,8 +26,8 @@ With a mindset of continuous learning, I enjoy using data to drive decisions and
 
 ## 🧭 Leadership Journey
 
-- 🏆 **President**, Indian Student Association – Led cultural and community events for international students.  
-- 🌐 **Global Ally & International Ambassador** – Supported new international students adjusting to campus life.  
+- 🏆 **President, Indian Student Association** – Led cultural and community events for international students.  
+- 🌐 **Global Ally at International Office, Chico State** – Supported new international students adjusting to campus life.  
 - 🎤 **Training & Placement Officer**, Computer Engineering – Guided peers in career readiness and placement activities.  
 - 🧩 **Leadership Club Head** – Organized workshops to build leadership and communication skills.  
 
