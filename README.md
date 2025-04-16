@@ -2,7 +2,7 @@
 
 🎓 Graduate Student | Data Enthusiast | Student Leader  
 📍 Based in Chico, California | MS in Data Science & Analytics, CSU Chico  
-🔍 Actively seeking internship/part-time opportunities in **Data Science**, **Analytics** or **Data Engineer**
+🔍 Actively seeking internship/part-time opportunities in **Data Science**, **Analytics** or **Machine Learning**
 
 ---
 
