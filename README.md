@@ -45,7 +45,7 @@ With a mindset of continuous learning, I enjoy using data to drive decisions and
 
 - 📧 Email: prane1@csuchico.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/pushpak-sunil-rane/)
-- 🌐 [Portfolio]((https://sites.google.com/view/pushpaksunilrane))
+- 🌐 [Portfolio](https://sites.google.com/view/pushpaksunilrane)
 ---
 
 ## 📌 Fun Fact
