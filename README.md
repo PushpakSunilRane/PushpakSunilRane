@@ -45,6 +45,7 @@ With a mindset of continuous learning, I enjoy using data to drive decisions and
 
 - 📧 Email: prane1@csuchico.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/pushpak-sunil-rane/)
+- 🌐 [Portfolio]((https://sites.google.com/view/pushpaksunilrane))
 ---
 
 ## 📌 Fun Fact
@@ -54,18 +55,3 @@ I love connecting cultures — through leadership, mentorship, and data!
 ---
 
 Thanks for stopping by! Scroll down to explore my projects and collaborations 👇
-
-<!--
-**PushpakSunilRane/PushpakSunilRane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
